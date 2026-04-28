@@ -46,7 +46,7 @@ It documents my daily learning journey, experiments, and applied exercises in Ge
 ## 🛠️ Tech Stack
 - **Python** (data science + AI workflows)  
 - **Kaggle Notebooks** (cloud‑based experimentation)  
-- **Google Gemini API** (Generative AI models)  
+- **Google Gemini API** (Generative AI models) & **Groq** (Generative AI models)  
 - **Git & GitHub** (version control and collaboration)  
 
 ---
